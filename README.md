@@ -1,6 +1,7 @@
 # bookmyshow
 **Requirements:**
-**Actors: **User, System
+**Actors:** User, System
+
 **User:**
 1. Login/signup
 2. Search based on movie title, location and theatre
